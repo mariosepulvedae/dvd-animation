@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>DVD Animation</title>
+    </head>
+
+    <body>
+        <h1> Initial canva</h1>
+        <canvas id="screen" width="500" height="500" style="border:1px solid #000000;">Soy una caja</canvas>
+
+        <script>
+            var screen = document.getElementById("screen");
+            var template = screen.getContext("2d");
+            template.moveTo(10,400);
+            template.lineTo(22,50);
+            template.stroke();
+        </script>
+    </body>
+
+
+
+
+
+
+</html>
