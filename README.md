@@ -4,5 +4,5 @@ The original code is from Patt Vira https://www.pattvira.com/
 
 
 <p align="middle">
-  <img src="dvd.gif" height=200 width=200>
+  <img src="dvd.gif" height=400 width=800>
 </p>
